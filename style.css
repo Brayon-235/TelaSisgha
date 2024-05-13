@@ -1,0 +1,25 @@
+body {
+    background-color: #eec951; /* Define a cor de fundo */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Centraliza na tela */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    min-height: 100vh; /* Faz o corpo cobrir a altura da janela */
+}
+
+.container {
+    border: 1px solid black; /* Adiciona borda ao container */
+    padding: 20px; /* Adiciona espaçamento interno */
+    text-align: center; /* Centraliza conteúdo dentro do container */
+    background-color: white;
+}
+
+.NomeClass {
+    margin-top: 20px;
+}
+
+.img {
+    width: 100px; 
+    height: auto;
+}
