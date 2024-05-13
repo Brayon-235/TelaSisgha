@@ -1,17 +1,17 @@
 body {
-    background-color: #eec951; /* Define a cor de fundo */
+    background-color: #eec951; 
     margin: 0;
     padding: 0;
-    display: flex; /* Centraliza na tela */
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    min-height: 100vh; /* Faz o corpo cobrir a altura da janela */
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh; 
 }
 
 .container {
-    border: 1px solid black; /* Adiciona borda ao container */
-    padding: 20px; /* Adiciona espaçamento interno */
-    text-align: center; /* Centraliza conteúdo dentro do container */
+    border: 1px solid black; 
+    padding: 20px; 
+    text-align: center; 
     background-color: white;
 }
 
